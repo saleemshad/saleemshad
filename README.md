@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Analytics
+ 🔭 I’m currently working on Data Analytics
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on AI and ML and then blockchain in the future
 - 🤔 I’m looking for help with Knowledge Bytes on Python, AI and ML
