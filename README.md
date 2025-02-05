@@ -5,15 +5,15 @@
 -->
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Data Analytics
+🔭 I’m currently working on Data Engineering and Data Analytics handling Large Big data projects
 
-🌱 I’m currently learning Python
+🌱 Expert in Python & PySaprk
 
-👯 I’m looking to collaborate on AI and ML and then blockchain in the future
+👯 I’m looking to collaborate on AI
 
-🤔 I’m looking for help with Knowledge in the Cloud technologies so that I can use Python, AI and ML
+🤔 Comfortable working with multi cloud Azure/AWS/GCP
 
-💬 Ask me about Data, Tableau, Cognos, etc.,
+💬 Ask me about Data Engineering, Data Modelling, Data Analytics, Software Engineering, SQL, Tableau,  etc.,
 
 📫 How to reach me: https://www.linkedin.com/in/shadsaleems/
 
